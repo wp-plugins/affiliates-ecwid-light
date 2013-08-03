@@ -23,7 +23,7 @@
  * Description: Integrates Affiliates and Ecwid
  * Author: itthinx
  * Author URI: http://www.itthinx.com
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 define( 'AFF_ECWID_LIGHT_PLUGIN_DOMAIN', 'affiliates-ecwid' );
 define( 'AFF_ECWID_LIGHT_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
