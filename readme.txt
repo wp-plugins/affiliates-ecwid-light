@@ -2,8 +2,8 @@
 Contributors: itthinx
 Donate link: http://www.itthinx.com/plugins/affiliates-ecwid-light
 Tags: ads, advertising, affiliate, affiliate marketing, affiliate plugin, affiliate tool, affiliates, bucks, contact form, crm, earn money, e-commerce, e-commerce, integration, Ecwid, lead, link, marketing, money, online sale, order, partner, referral, referral links, referrer, shopping cart, sales, shop, shopping cart, site, track, transaction, wordpress
-Requires at least: 3.3
-Tested up to: 3.6
+Requires at least: 3.5.1
+Tested up to: 3.8
 Stable tag: 1.0.1
 License: GPLv3
 
@@ -63,6 +63,9 @@ Example: If you want to give an affiliate 10% of each net total sales amount, se
 
 == Changelog ==
 
+= 1.0.2 =
+* WordPress 3.8 compatibility checked
+
 = 1.0.1 =
 * WordPress 3.6 compatible
 
@@ -70,6 +73,9 @@ Example: If you want to give an affiliate 10% of each net total sales amount, se
 * First release of the light integration plugin for WordPress.
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+* WordPress 3.8 compatibility checked
 
 = 1.0.1 =
 * WordPress 3.6 compatible
